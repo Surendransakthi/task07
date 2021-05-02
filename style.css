@@ -1,0 +1,115 @@
+.body{
+    background-color: #F2EAD0;
+    width: 1000px;
+    height: 1000px;
+    margin: 50px;
+    position: relative;
+    left: 150px;
+}
+#titlecolor
+{
+    color: #5D878C;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 30px;
+    top: 30px;
+    left: 15px;
+}
+#titlecolor1{
+    color: #F21905;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 30px;
+    top: 30px;
+    left: 160px;
+}
+.line1{
+    position: absolute;
+    font-size: 15px;
+    top: 80px;
+    font-family: 'Permanent Marker', cursive;
+    left: 15px;
+    color:#730217;
+    }
+.line1move{
+    position: absolute;
+    left: 75px;
+}
+.move2{
+    position:relative;
+    left: 75px;
+    top:150px;
+}
+.head{
+    background-color: #F2DC99;width:360px;padding-left: 110px;
+    color: #F21905;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 30px;
+    top: 450px;
+}
+.textmove{
+    position: absolute;
+    font-size: 15px;
+    top: 550px;
+    font-family: 'Permanent Marker', cursive;
+    left: 15px;
+    color:#730217;
+}
+.junk{
+    position:absolute;
+    left: 65px;
+    bottom:55px;
+}
+.head2{
+    background-color: #F2DC99;width:330px;padding-left: 110px;
+    color: #F21905;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 30px;
+    top: 30px;
+    left: 550px;
+}
+.move3{
+    position: absolute;
+    font-size: 15px;
+    top: 360px;
+    font-family: 'Permanent Marker', cursive;
+    left: 550px;
+    color:#730217;
+    }
+.healthy{
+    position:absolute;
+    left: 550px;
+    top: 120px;
+
+}
+.head3{
+    background-color: #F2DC99;width:440px;
+    color: #F21905;
+    font-weight: bold;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 30px;
+    top: 480px;
+    left: 550px;
+}
+.obesity{
+    position:absolute;
+    left: 700px;
+    bottom:55px;
+}
+.text{
+    
+    color: #730217;
+    font-family: 'Permanent Marker', cursive;
+    position: absolute;
+    font-size: 15px;
+    bottom: 200px;
+    left: 550px;
+
+}
